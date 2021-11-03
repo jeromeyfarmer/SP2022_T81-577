@@ -2,9 +2,9 @@
 
 [Washington University in St. Louis](https://wustl.edu/)
 
-Instructor: Asim Banskota
+Instructor: Jeromey Farmer
 
-Spring 2021, Wednesday, 6:00 PM - 9:00 PM , Cupples II, Room L015
+Spring 2022, Online, Asynchronous Course
 
 # Course Description
 
